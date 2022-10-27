@@ -42,7 +42,7 @@ Desenvolvedora Back-end Jr. | Python | Microsoft SQL Server
 
 
 
-#### :hammer: Frameworks
+
 
 
 
