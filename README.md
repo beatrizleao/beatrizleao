@@ -12,7 +12,7 @@
 
 <br>
 
-Desenvolvedor Back-end Jr. | Python | Django | Javascript |  HTML |  CSS | SQL Server
+Desenvolvedora Back-end Jr. | Python | Microsoft SQL Server
 
 
 ![age](https://img.shields.io/badge/Idade-20-purple)
