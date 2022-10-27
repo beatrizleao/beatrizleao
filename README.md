@@ -19,8 +19,8 @@ Desenvolvedora Back-end Jr. | Python | Microsoft SQL Server
 ![living](https://img.shields.io/badge/País-Brasil-informational)
 
 
-- 🔭 Em busca de oportunidades.
-- 🌱 Estudando Ciência da Computação.
+- 📨 Em busca de oportunidades.
+- 📚 Estudando Ciência da Computação.
 - 📫 Contate-me em: beatriz.leao@aluno.faculdadeimpacta.com.br
 
 ---
