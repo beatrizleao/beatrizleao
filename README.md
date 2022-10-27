@@ -1,4 +1,4 @@
-## Olá! Eu sou Andrey! 👋
+## Olá! Eu sou Beatriz! 👋
 
 
 <div>
