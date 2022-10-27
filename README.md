@@ -15,7 +15,7 @@
 Desenvolvedora Back-end Jr. | Python | Microsoft SQL Server
 
 
-![age](https://img.shields.io/badge/Idade-20-purple)
+![age](https://img.shields.io/badge/Idade-19-purple)
 ![living](https://img.shields.io/badge/País-Brasil-informational)
 
 
