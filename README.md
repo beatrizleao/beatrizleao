@@ -19,9 +19,9 @@ Desenvolvedor Back-end Jr. | Python | Django | Javascript |  HTML |  CSS | SQL S
 ![living](https://img.shields.io/badge/País-Brasil-informational)
 
 
-- 🔭 Trabalhando atualmente na área de Infraestrutura do TI.
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas.
-- 📫 Contate-me em: andrey.oliveira@uni9.edu.br
+- 🔭 Em busca de oportunidades.
+- 🌱 Estudando Ciência da Computação.
+- 📫 Contate-me em: beatriz.leao@aluno.faculdadeimpacta.com.br
 
 ---
 
