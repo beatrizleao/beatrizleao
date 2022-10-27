@@ -1,12 +1,12 @@
-## Olá! Eu sou Beatriz! 👋
+## Olá! Eu sou Andrey! 👋
 
 
 <div>
 <a href="https://www.linkedin.com/in/beatriz-le%C3%A3o-b10190210/">
       <img alt="Andrey Oliveira" src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>r
+</a>
 <a href="mailto:beatriz.leao@aluno.faculdadeimpacta.com.br">
-      <img alt="Beatriz Leão" src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img alt="Andrey Oliveira" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
 
